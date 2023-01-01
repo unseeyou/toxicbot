@@ -172,7 +172,7 @@ async def about_me(ctx):
 
 async def main():
     async with bot:
-        await bot.start('OTg3NjgzMzY4NjE3NTI1MjQ4.GgTokO.RKM-2YAS1tlhnHbrYZ0nMf-4SOkjQAxRgr2XoY')
+        await bot.start('TOKEN')
 
 
 asyncio.run(main())
